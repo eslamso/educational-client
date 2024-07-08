@@ -1,3 +1,4 @@
+"use client";
 import { useGetCourseContentQuery } from "@/redux/features/courses/coursesApi";
 import React, { useState } from "react";
 import Loader from "../Loader/Loader";

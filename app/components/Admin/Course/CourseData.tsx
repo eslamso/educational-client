@@ -1,3 +1,4 @@
+"use client";
 import { styles } from "@/app/styles/style";
 import React, { FC } from "react";
 import {AiOutlinePlusCircle} from "react-icons/ai";

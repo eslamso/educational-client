@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect, useState } from "react";
 import { DataGrid } from "@mui/x-data-grid";
 import { Box, Button, Modal } from "@mui/material";
